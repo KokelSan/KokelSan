@@ -1,9 +1,37 @@
-# Hi there ! I am Théo Kokel :raising_hand_man:
-- :man_student: I am a french student in my last year of computer engineering at the University of technology of Compiègne (France, Oise, 60)
-- :smile: I am a smiley, happy, autonomous, curious, generous and bon vivant person
-- :video_game: I am passionate by video games since I can hold a controller, and I want to go further and turn my passion into my job
-- :eyes: I am particularly interested in gameplay and artificial intelligence
-- :computer: I have experience in Unity and C#, C++, C, Python, databases (SQL & noSQL) R and Jave
-- :zap: I also do a lot of sport, such as badminton, football, running and even skydiving !  
+## Hi there ! I am Théo Kokel 🙋‍♂️
+- 👨‍🎓 I am a french student in my last year of computer engineering at the University of technology of Compiègne (France, Oise, 60)
+- 😄 Smiley, happy, autonomous, curious, generous and bon vivant are adjectives defining me
+- 🎮 I am passionate by video games since I can hold a controller, and I want to go further and turn my passion into my job
+- ⚡ I also do a lot of sport, such as badminton, football, running and even skydiving !  
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/theo-kokel/)
+
+## Technologies I have worked with 💻
+- Unity and C#
+- C & C++
+- Python
+- databases (SQL & noSQL) 
+- R
+- Java
+
+
+## What I am looking for 👀
+I am searching a **6 months final year internship** to conclude my studies. I want to work in game development so I am looking for an internship in this domain. 
+I am particularly interested in **gameplay and artificial intelligence**, but as I have already worked on multiplayer games, I would also enjoy to help on **online** issues.
+
+
+## My projects 👨‍💻
+### 2022
+- [In development] multiplayer VR game for HTC Vive / *sept. 2021 - jan. 2022*
+- [In development] board game (1v1) developed with a team of 24 / *sept. 2021 - jan. 2022*
+
+### 2021
+- [aPQlypse](https://github.com/KokelSan) / *july 2021*  
+- [The Cratest Game](https://github.com/KokelSan) / *feb. 2021 - june 2021*
+- [IA02](https://github.com/KokelSan) / *feb. 2021 - june 2021*
+- [Assistant engineer internship](https://github.com/KokelSan) : development of a Mixed Reality app for HoloLens 2 / *sept. 2020 - jan. 2021*
+
+
+## My networks 🛰️
+<a href="https://github.com/KokelSan" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/theo-kokel/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://www.youtube.com/" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
