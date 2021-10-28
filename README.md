@@ -21,14 +21,14 @@ I am particularly interested in **gameplay and artificial intelligence**, but as
 
 ## My projects 👨‍💻
 ### 2022
-- [In development] multiplayer VR game for HTC Vive / *sept. 2021 - jan. 2022*
-- [In development] board game (1v1) developed with a team of 24 / *sept. 2021 - jan. 2022*
+- [In development] multiplayer VR game for HTC Vive / University project, *sept. 2021 - jan. 2022*
+- [In development] board game (1v1) developed with a team of 24 / University project, *sept. 2021 - jan. 2022*
 
 ### 2021
-- [aPQlypse](https://github.com/KokelSan) / *july 2021*  
-- [The Cratest Game](https://github.com/KokelSan) / *feb. 2021 - june 2021*
-- [IA02](https://github.com/KokelSan) / *feb. 2021 - june 2021*
-- [Assistant engineer internship](https://github.com/KokelSan) : development of a Mixed Reality app for HoloLens 2 / *sept. 2020 - jan. 2021*
+- [aPQlypse](https://github.com/KokelSan/aPQlypse) / Personal project, *july 2021*  
+- [The Cratest Game](https://github.com/KokelSan/The-Cratest-game) / Personal project, *feb. 2021 - june 2021*
+- [Minesweeper variant automatic player](https://github.com/KokelSan/Minesweeper-variant-automatic-player) / University project, *feb. 2021 - june 2021*
+- [Assistant engineer internship](https://github.com/KokelSan/HoloLens2-Internship) : development of a Mixed Reality app for HoloLens 2 / *sept. 2020 - jan. 2021*
 
 
 ## My networks 🛰️
