@@ -40,11 +40,21 @@ I am particularly interested in **gameplay and artificial intelligence**, but as
 
 
 ## My volunteer experience : The Imaginarium Festival epic 🚀
+<p align="center">
+  <img src="Assets/IFBanner.jpg" />
+  The visual identity of the 2022 edition
+</p>
+
+blablabla
+
 ### IF22 (sept. 2021 - july 2022) : Technical Director
+blablabla
 
 ### IF21 (sept. 2020 - july 2021) : Head of Security
+blablabla
 
 ### IF20 (sept. 2019 - july 2020) : Head of Transports
+blablabla
 
 
 ## My networks 🛰️
