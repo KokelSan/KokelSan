@@ -1,6 +1,6 @@
 ## Hi there ! I am Théo Kokel 🙋‍♂️
 - 👨‍🎓 I am a french student in my last year of computer engineering at the University of technology of Compiègne (France, Oise, 60)
-- 😄 Smiley, happy, autonomous, curious, generous and bon vivant are adjectives defining me
+- 😄 Smiley, happy, autonomous, curious, generous and bon vivant are adjectives that (I think) define me
 - 🎮 I am passionate by video games since I can hold a controller, and I want to go further and turn my passion into my job
 - ⚡ I also do a lot of sport, such as badminton, football, running and even skydiving !  
 
@@ -9,9 +9,15 @@
 - Unity and C#
 - C & C++
 - Python
-- databases (SQL & noSQL) 
-- R
-- Java
+- Databases (SQL & noSQL) 
+- R (Statistics and Machine Learning)
+
+
+## Soft skills 💡
+- Project management : notions in development life cycle (V, W, iterative, spiral, waterfall, Agile & Scrum)
+- Experience in team leader position and budget control
+- Happy and comfortable both in team work and autonomy
+- Attentive and communicative
 
 
 ## What I am looking for 👀
@@ -20,15 +26,25 @@ I am particularly interested in **gameplay and artificial intelligence**, but as
 
 
 ## My projects 👨‍💻
-### 2022
-- [In development] multiplayer VR game for HTC Vive / University project, *sept. 2021 - jan. 2022*
-- [In development] board game (1v1) developed with a team of 24 / University project, *sept. 2021 - jan. 2022*
+### 2021 - 2022
+- [WasteFair](https://github.com/KokelSan/WasteFair) : University project, multiplayer VR game for HTC Vive / *sept. 2021 - jan. 2022*
+- [Nomad](https://github.com/KokelSan/Nomad) : University project, Board game (1v1) developed with a team of 24 / *sept. 2021 - jan. 2022*
 
 ### 2021
-- [aPQlypse](https://github.com/KokelSan/aPQlypse) / Personal project, *july 2021*  
-- [The Cratest Game](https://github.com/KokelSan/The-Cratest-game) / Personal project, *feb. 2021 - june 2021*
-- [Minesweeper variant automatic player](https://github.com/KokelSan/Minesweeper-variant-automatic-player) / University project, *feb. 2021 - june 2021*
-- [Assistant engineer internship](https://github.com/KokelSan/HoloLens2-Internship) : development of a Mixed Reality app for HoloLens 2 / *sept. 2020 - jan. 2021*
+- [aPQlypse](https://github.com/KokelSan/aPQlypse) : Personal project, parodic game / *july 2021*  
+- [The Cratest Game](https://github.com/KokelSan/The-Cratest-game) : Personal project, multiplayer game / *feb. 2021 - june 2021*
+- [Minesweeper based IA](https://github.com/KokelSan/Minesweeper-variant-automatic-player) : University project, automatic player to a Minesweeper variant game / *feb. 2021 - june 2021*
+
+### 2020 - 2021
+- [Assistant engineer internship](https://github.com/KokelSan/HoloLens2-Internship) : Development of a Mixed Reality app for HoloLens 2 / *sept. 2020 - jan. 2021*
+
+
+## My volunteer experience : The Imaginarium Festival epic 🚀
+### IF22 (sept. 2021 - july 2022) : Technical Director
+
+### IF21 (sept. 2020 - july 2021) : Head of Security
+
+### IF20 (sept. 2019 - july 2020) : Head of Transports
 
 
 ## My networks 🛰️
