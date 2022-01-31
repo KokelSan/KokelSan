@@ -33,7 +33,7 @@ I am particularly interested in **gameplay and artificial intelligence**, but as
 ### 2021
 - [aPQlypse](https://github.com/KokelSan/aPQlypse) : Personal project, parodic game / *july 2021*  
 - [The Cratest Game](https://github.com/KokelSan/The-Cratest-game) : Personal project, multiplayer game / *feb. 2021 - june 2021*
-- [Minesweeper based IA](https://github.com/KokelSan/Minesweeper-variant-automatic-player) : University project, automatic player to a Minesweeper variant game / *feb. 2021 - june 2021*
+- [Crocomine IA](https://github.com/KokelSan/Crocomine) : University project, automatic player to a Minesweeper variant game / *feb. 2021 - june 2021*
 
 ### 2020 - 2021
 - [Assistant engineer internship](https://github.com/KokelSan/HoloLens2-Internship) : Development of a Mixed Reality app for HoloLens 2 / *sept. 2020 - jan. 2021*
