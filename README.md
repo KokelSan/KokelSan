@@ -26,14 +26,18 @@ I am particularly interested in **gameplay and artificial intelligence**, but as
 
 
 ## My projects 👨‍💻
+### 2022
+- [In development] : VR project developed by other students. I joined them to add AI to enhance interactions and immersion. / *feb. 2022 - july 2022*
+
 ### 2021 - 2022
 - [WasteFair](https://github.com/KokelSan/WasteFair) : University project, multiplayer VR game for HTC Vive / *sept. 2021 - jan. 2022*
 - [Nomad](https://github.com/KokelSan/Nomad) : University project, online board game (1v1) developed with a team of 24 / *sept. 2021 - jan. 2022*
 
 ### 2021
 - [aPQlypse](https://github.com/KokelSan/aPQlypse) : Personal project, parodic game / *july 2021*  
-- [The Cratest Game](https://github.com/KokelSan/The-Cratest-game) : Personal project, multiplayer game / *feb. 2021 - june 2021*
-- [Crocomine IA](https://github.com/KokelSan/Crocomine) : University project, automatic player to a Minesweeper variant game / *feb. 2021 - june 2021*
+- [Crocomine AI](https://github.com/KokelSan/Crocomine) : University project, automatic player to a Minesweeper variant game / *may 2021 - july 2021*
+- [The Cratest Game](https://github.com/KokelSan/The-Cratest-game) : Personal project, online multiplayer game / *feb. 2021 - july 2021*
+- [Library database](https://github.com/KokelSan/Library-database) : University project, Python program to manage a library's items and users / *feb. 2021 - july 2021*
 
 ### 2020 - 2021
 - [Assistant engineer internship](https://github.com/KokelSan/HoloLens2-Internship) : Development of a Mixed Reality app for HoloLens 2 / *sept. 2020 - jan. 2021*
