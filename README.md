@@ -46,4 +46,4 @@ I am particularly interested in **gameplay and artificial intelligence**, but as
 ## My networks 🛰️
 <a href="https://github.com/KokelSan" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/theo-kokel/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="https://www.youtube.com/" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+<a href="https://www.youtube.com/channel/UCHMJvHBIA0Bj38ZuV2CK1qw" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
