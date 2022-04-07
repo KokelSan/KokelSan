@@ -3,7 +3,7 @@
 - 😄 Smiley, happy, autonomous, curious, generous and bon vivant are adjectives that define me
 - 🎮 I am passionate by video games since I can hold a controller, and I want to go further and turn my passion into my job
 - ⚡ I also do a lot of sport, such as badminton, football, running and even skydiving ! 
-- [Resume](https://github.com/KokelSan/Resume) & [Portfolio](https://github.com/KokelSan/Portfolio)
+- [Resume](Resume.pdf) & [Portfolio](Portfolio.pdf)
 
 ## Technologies I have worked with 💻
 - Unity and C#
