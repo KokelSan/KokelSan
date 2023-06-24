@@ -35,7 +35,7 @@
 
 ### 2022
 - [Cozy Place](https://fusshlach.itch.io/cozy-place) : Game Jam project. Developped on Unity for web browser with a team of 5 devs in 2 days / *december 2022*
-- **LoopaWorld** : University project. VR experience for HTC-Vive. Submitted for competition at the Laval Virtual Awards / *feb. 2022 - july 2022*
+- [LoopaWorld](https://www.youtube.com/watch?v=zAx4VTUhwoM) : University project. VR experience for HTC-Vive. Submitted for competition at the Laval Virtual Awards / *feb. 2022 - july 2022*
 
 ### 2021
 - [WasteFair](https://github.com/KokelSan/WasteFair) : University project. Multiplayer VR game for HTC Vive / *sept. 2021 - jan. 2022*
