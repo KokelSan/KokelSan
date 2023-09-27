@@ -30,7 +30,7 @@
 
 ## My projects 👨‍💻
 ### 2023
-- **Multiplayer scene prototype** : Interview project. A multiplayer environment with dynamic scene loading as well as a chat and notification panel. Made with Unity in 2 days.
+- **Multiplayer scene prototype** : Interview project. A multiplayer environment with dynamic scene loading as well as a chat and notification panel. Made with Unity in 2 days. / *september 2023*
 - **Iron Man Demo** : Personnal project. First project on Unreal Engine 5, started alongside my training on the engine / *since april 2023*
 - **Memorial Project** : University project. HoloLens 2 experience enriching the visit of Compiègne's concentration camp memorial / *february 2023*
 
