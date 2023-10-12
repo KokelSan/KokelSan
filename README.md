@@ -1,4 +1,5 @@
 ## Hi there ! I am Théo Kokel 🙋‍♂️
+
 - 👨‍🎓 I am a french Computer Science Engineer (from the French University of Technology of Compiègne), graduated in march 2023 after an end-of-study internship at **Ubisoft Paris Mobile**
 - 🎮 Passionate about video games, I specialized my studies and my skills in game development, especially in Gameplay
 - 😄 Smiley, happy, autonomous, curious, generous and bon vivant are adjectives that define me
