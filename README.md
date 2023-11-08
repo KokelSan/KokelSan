@@ -43,7 +43,7 @@
 - [LoopaWorld](https://www.youtube.com/watch?v=zAx4VTUhwoM) : University project. VR experience for HTC-Vive. Submitted for competition at the Laval Virtual Awards 2023 / *feb. 2022 - july 2022*
 - [WasteFair](https://github.com/KokelSan/WasteFair) : University project. Multiplayer VR game for HTC Vive / *sept. 2021 - jan. 2022*
 
-- ### Interview projects and Prototypes ⚙️
+### Interview projects and Prototypes ⚙️
 - Coming 😉
 
 <br>
