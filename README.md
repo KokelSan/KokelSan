@@ -18,11 +18,10 @@
 <br>
 
 ## Soft skills 💡
-- Project management : notions in development life cycle (V, W, iterative, spiral, waterfall, Agile & Scrum)
-- Experience in team leader positions and budget control
+- Eager to learn and discover new technologies
+- Attentive, communicative and objective
+- Experience in team leader positions, budget control and project management
 - Happy and comfortable both in team work and autonomy
-- Attentive and communicative
-- I love humor and irony
 
 <br>
 
@@ -32,20 +31,20 @@
 
 <br>
 
-## My game projects 🕹️
+## My projects 🚀
 ### PC games 🖥️
 - [Iron Man Demo](https://github.com/KokelSan/IronMan_Demo) : Personnal project. First project on Unreal Engine 5, started alongside my training on the engine / *since april 2023*
 - [Cozy Place](https://fusshlach.itch.io/cozy-place) : Game Jam project. Developped on Unity for web browser with a team of 5 devs in 2 days / *december 2022*
 - [aPQlypse](https://github.com/KokelSan/aPQlypse) : Personal project. Parodic game made in a few hours / *july 2021*  
 - [The Cratest Game](https://github.com/KokelSan/The-Cratest-game) : Personal project. Online multiplayer game / *feb. 2021 - july 2021*
 
-### Mobile games 📱
-- Coming 😉
-
-### Virtual & Mixed Reality 🤖
+### Virtual & Mixed Reality Experiences 🤖
 - [Memorial Project](https://youtu.be/P8erws4XMhg) : University project. HoloLens 2 experience enriching the visit of Compiègne's concentration camp memorial / *february 2023*
 - [LoopaWorld](https://www.youtube.com/watch?v=zAx4VTUhwoM) : University project. VR experience for HTC-Vive. Submitted for competition at the Laval Virtual Awards 2023 / *feb. 2022 - july 2022*
 - [WasteFair](https://github.com/KokelSan/WasteFair) : University project. Multiplayer VR game for HTC Vive / *sept. 2021 - jan. 2022*
+
+- ### Interview projects and Prototypes ⚙️
+- Coming 😉
 
 <br>
 
