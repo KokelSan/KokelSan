@@ -2,8 +2,8 @@
 
 - 👨‍🎓 I am a french Computer Science Engineer (from the French University of Technology of Compiègne), graduated in march 2023 after an end-of-study internship at **Ubisoft Paris Mobile**
 - 🎮 Passionate about video games, I specialized my studies and my skills in game development, especially in Gameplay
-- 😄 Smiley, happy, autonomous, curious, generous and bon vivant are adjectives that define me
-- ⚡ I also love sport, such as Badminton, Football, Tennis and even skydiving ! 
+- 😄 Smiley, happy, autonomous, curious, generous and bon vivant are adjectives that define me. I love teamwork and being surrounded by inspiring and creative people.
+- ⚡ I also love sport, such as Football, Badminton and even skydiving ! 
 - [Resume](Resume.pdf) & [Portfolio](Portfolio.pdf)
 
 <br>
@@ -11,7 +11,7 @@
 ## Technical skills 💻
 - **Unity Engine** : 3 years of practice, 10+ projects
 - **Unreal Engine 5** : currently learning and training since april 2023, 1 project in development
-- **Other programming language** : Python & C
+- **Programming language** : C#, C++, Python & C
 - **Knowledge in Databases** : SQL & noSQL
 - **Basics in AI** : theory and maths
   
@@ -26,7 +26,7 @@
 <br>
 
 ## My Professional Experiences 💼
-- **Gameplay Programmer Internship at Ubisoft Paris Mobile** : Unannouced project, development on Unity. Gameplay, UI & online programming / *sept. 2022 - feb. 2023*
+- **Gameplay Programmer Internship at Ubisoft Paris Mobile** : "Champions Tactics: Grimoria Chronicles". Gameplay, UI & online programming on Unity / *sept. 2022 - feb. 2023*
 - [Unity MR Developer](https://github.com/KokelSan/HoloLens2-Internship) : Internship. Development of a Mixed Reality app for HoloLens 2 / *sept. 2020 - feb. 2021*
 
 <br>
@@ -43,7 +43,7 @@
 - [LoopaWorld](https://www.youtube.com/watch?v=zAx4VTUhwoM) : University project. VR experience for HTC-Vive. Submitted for competition at the Laval Virtual Awards 2023 / *feb. 2022 - july 2022*
 - [WasteFair](https://github.com/KokelSan/WasteFair) : University project. Multiplayer VR game for HTC Vive / *sept. 2021 - jan. 2022*
 
-### Interview projects and Prototypes ⚙️
+### Prototypes ⚙️
 - Coming 😉
 
 <br>
