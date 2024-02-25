@@ -34,13 +34,13 @@
 ## My projects 🚀
 ### PC games 🖥️
 - [Iron Man Demo](https://github.com/KokelSan/IronMan_Demo) : Personnal project. First project on Unreal Engine 5, started alongside my training on the engine / *since april 2023*
-- [Cozy Place](https://fusshlach.itch.io/cozy-place) : Game Jam project. Developped on Unity for web browser with a team of 5 devs in 2 days / *december 2022*
+- [Cozy Place](https://github.com/KokelSan/Cozy_Place) : Game Jam project. Developped on Unity for web browser with a team of 5 devs in 2 days / *december 2022*
 - [aPQlypse](https://github.com/KokelSan/aPQlypse) : Personal project. Parodic game made in a few hours / *july 2021*  
 - [The Cratest Game](https://github.com/KokelSan/The-Cratest-game) : Personal project. Online multiplayer game / *feb. 2021 - july 2021*
 
 ### Virtual & Mixed Reality Experiences 🤖
-- [Memorial Project](https://youtu.be/P8erws4XMhg) : University project. HoloLens 2 experience enriching the visit of Compiègne's concentration camp memorial / *february 2023*
-- [LoopaWorld](https://www.youtube.com/watch?v=zAx4VTUhwoM) : University project. VR experience for HTC-Vive. Submitted for competition at the Laval Virtual Awards 2023 / *feb. 2022 - july 2022*
+- [Memorial Project](https://github.com/KokelSan/Memorial_Project) : University project. HoloLens 2 experience enriching the visit of Compiègne's concentration camp memorial / *february 2023*
+- [LoopaWorld](https://github.com/KokelSan/Loopaworld) : University project. VR experience for HTC-Vive. Submitted for competition at the Laval Virtual Awards 2023 / *feb. 2022 - july 2022*
 - [WasteFair](https://github.com/KokelSan/WasteFair) : University project. Multiplayer VR game for HTC Vive / *sept. 2021 - jan. 2022*
 
 ### Prototypes ⚙️
